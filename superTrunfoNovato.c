@@ -1,5 +1,3 @@
-# super_trunfo.c
-Repositório da aula do Tema 2 - Super Trunfo em c, nível NOVATO
 #include <stdio.h>
 
 int main() {
@@ -18,11 +16,11 @@ int main() {
     printf("Estado (A-H): ");
     scanf(" %c", &estado1);
 
-    printf("Código da Carta (ex: A01): ");
+    printf("Código da Carta A letra do estado seguida de um número de 01 a 04(ex: A01): ");
     scanf("%s", codigo1);
 
     printf("Nome da Cidade: ");
-    scanf(" %[^\n]", cidade1);
+    scanf(" %s", cidade1);
 
     printf("População: ");
     scanf("%d", &populacao1);
@@ -46,7 +44,7 @@ int main() {
     scanf("%s", codigo2);
 
     printf("Nome da Cidade: ");
-    scanf(" %[^\n]", cidade2);
+    scanf(" %s", cidade2);
 
     printf("População: ");
     scanf("%d", &populacao2);
