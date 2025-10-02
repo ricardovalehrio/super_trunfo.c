@@ -1,6 +1,6 @@
 Super Trunfo Países em C
 Projeto de Programação em C - Universidade Estácio
-Bem-vindo ao repositório do projeto Super Trunfo Países, desenvolvido como parte da disciplina de Algoritmos e Programação Estruturada do curso de Engenharia na Universidade Estácio.
+Bem-vindo ao repositório do projeto Super Trunfo Países, desenvolvido como parte da disciplina de Algoritmos e Programação Estruturada da faculdade de Ciência da Computação na Universidade Estácio.
 
 Sobre o Projeto
 Este projeto é uma versão console do clássico jogo Super Trunfo, adaptada para comparar cartas de países utilizando diversos atributos demográficos e econômicos. O objetivo é incentivar o aprendizado de estruturas de decisão, manipulação de dados via struct, menus interativos com switch, tratamento de entradas e boas práticas em C.
